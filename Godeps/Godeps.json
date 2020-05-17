@@ -1,0 +1,6 @@
+{
+	"ImportPath": "belajar/go-contacts",
+	"GoVersion": "go1.14",
+	"GodepVersion": "v80",
+	"Deps": []
+}
